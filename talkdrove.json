@@ -10,18 +10,18 @@
 "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with KANGO~, or get session id from here, https://adiza-session.onrender.com",
-        "value":"",
+        "value":"KANGO~l7N1TRpI#RNkhe0sZULN5DrNL_pHqbevDwRxKiHmJpxuteGo6hPg",
         "required": true
         
         },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "255652398614",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Nicolaus Daniel 2😈😈",
       "required": true
     },
     "STICKER_PACK_NAME": {
@@ -42,8 +42,8 @@
     },
    "GITHUB_TOKEN": {
   "description": "IMPORTANT: Follow these steps to generate your GitHub token correctly(Bot will not save settings without it!). Go to https://github.com/settings/tokens, select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.",
-  "value": "",
-  "required": false
+  "value": "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",
+  "required": true
         
         
       }
